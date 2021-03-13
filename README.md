@@ -12,8 +12,8 @@
 
 ## 📬 Get in touch
 
-- LinkedIn: [linkedin.com/in/aj7t][2]
-- Twitter: [twitter.com/aj7t][3]
+- LinkedIn: linkedin.com/in/aj7t
+- Twitter: twitter.com/aj7t
 
 
 ## 🌳 My Digital Garden
