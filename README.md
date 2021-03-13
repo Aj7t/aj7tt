@@ -10,8 +10,9 @@
 
 ## 📬 Get in touch
 
-- LinkedIn: https://www.linkedin.com/in/aj7t/
-- Twitter: https://www.twitter.com/aj7t
+[LinkedIn](https://www.linkedin.com/in/aj7t/)
+[Twitter](https://www.twitter.com/aj7t)
+ 
 
 
 ## 🌳 My Digital Garden
