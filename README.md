@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on C++
 - 🤔 I’m looking for help with Open sources
 - 💬 Ask me about anything
-- 📫 How to reach me:  https://www.linkedin.com/in/aj7t/
+- 📫 How to reach me:  [LinkedIn](https://www.linkedin.com/in/aj7t/)
 
 
 ## 📬 Get in touch
@@ -17,7 +17,7 @@
 
 ## 🌳 My Digital Garden
 
-You can find my blog posts on https://medium.com/@aj7t. I write about things I
+You can find my blog posts on [Medium](https://medium.com/@aj7t). I write about things I
 am familiar with including **C++**, **Machine learning**, and **Web developement**.
 
  
