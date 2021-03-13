@@ -18,7 +18,7 @@
 
 ## 🌳 My Digital Garden
 
-You can find my blog posts on [https://medium.com/@aj7t][4]. I write about things I
+You can find my blog posts on medium.com/@aj7t. I write about things I
 am familiar with including **C++**, **Machine learning**, and **Web developement**.
 
  
