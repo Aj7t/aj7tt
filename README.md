@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<!--
-**Aj7t/aj7t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -13,4 +8,17 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+
+## 📬 Get in touch
+
+- LinkedIn: [linkedin.com/in/aj7t][2]
+- Twitter: [twitter.com/aj7t][3]
+
+
+## 🌳 My Digital Garden
+
+You can find my blog posts on [https://medium.com/@aj7t][4]. I write about things I
+am familiar with including **C++**, **Machine learning**, and **Web developement**.
+
+ 
