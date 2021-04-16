@@ -12,7 +12,7 @@
 
 
 
-## 📬 Get in touch
+## 👩🏻‍🤝‍👨🏼👬🏼 Get in touch
 
 
 [Twitter](https://www.twitter.com/aj7t)
@@ -33,11 +33,8 @@ am familiar with including **C++**, **Machine learning**, and **Web developement
 
 ![Aj7t's github stats](https://github-readme-stats.vercel.app/api?username=Aj7t&show_icons=true&title_color=EEFCEF&icon_color=EEFCEF&text_color=00B0E0&bg_color=151515)
 
-## Languages and Tools
-<hr>
-
-
-
+## 🔮 Languages and Tools
+ 
 <img align="left"  src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" height="50px">
 <img align="left" src="https://www.python.org/static/opengraph-icon-200x200.png" height="50px"> 
 <img align="left" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="50">
