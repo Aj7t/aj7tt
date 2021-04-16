@@ -14,14 +14,12 @@
 ## 📬 Get in touch
 
 
- <img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /> 
-<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-
-[<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />(https://www.linkedin.com/in/aj7t/)]
-
 [Twitter](https://www.twitter.com/aj7t)
 
+[LinkedIn](https://www.linkedin.com/in/aj7t/)]
+
 [Instagram](https://www.instagram.com/_aj7t/)
+ 
  
 
 
