@@ -50,7 +50,6 @@ am familiar with including **C++**, **Machine learning**, and **Web developement
 <img align="left" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="50">
 <img align="left" src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="50">
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1200px-Sass_Logo_Color.svg.png" width="50">
-<img align="left" src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50">
 <br />
 
 
