@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-# I'm ajit <img src="https://tenor.com/view/coding-kira-lena-urzendowsky-how-to-sell-drugs-online-fast-hacking-gif-17761682.gif" width="50" >
-            <img src="https://media.tenor.com/images/dde00ef959f44dc5279786fc7f20fe5b/tenor.gif" width="50" >
+# I'm ajit <img src="https://tenor.com/view/coding-kira-lena-urzendowsky-how-to-sell-drugs-online-fast-hacking-gif-17761682.gif" width="50" > 
 
 [![HitCount](http://hits.dwyl.com/Aj7t/https://githubcom/Aj7t/Placement22.svg)](http://hits.dwyl.com/Aj7t/https://githubcom/Aj7t/Placement22) <img alt="GitHub followers" src="https://img.shields.io/github/followers/Aj7t?style=social"> ![Twitter Follow](https://img.shields.io/twitter/follow/_aj7t?style=social) <p align="left"> <img src="https://komarev.com/ghpvc/?username=aj7t&label=Profile%20views&color=0e75b6&style=flat" alt="Aj7t" /> </p>
 
@@ -12,7 +11,7 @@
 - 📫 How to reach me:  [LinkedIn](https://www.linkedin.com/in/aj7t/)
 
 ![edebd27aaf5015034ca452375a3b0969](https://user-images.githubusercontent.com/32809211/87786036-e7cdfa80-c856-11ea-9190-f4106d1fbc43.gif)
-
+ <img src="https://tenor.com/view/coding-kira-lena-urzendowsky-how-to-sell-drugs-online-fast-hacking-gif-17761682.gif" width="550" > 
 
 ## 📬 Get in touch
 
