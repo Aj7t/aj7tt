@@ -9,9 +9,9 @@
 - 🤔 I’m looking for help with Open sources
 - 💬 Ask me about anything
 - 📫 How to reach me:  [LinkedIn](https://www.linkedin.com/in/aj7t/)
+- <img src="https://tenor.com/view/coding-kira-lena-urzendowsky-how-to-sell-drugs-online-fast-hacking-gif-17761682.gif" width="550" > 
 
-![edebd27aaf5015034ca452375a3b0969](https://user-images.githubusercontent.com/32809211/87786036-e7cdfa80-c856-11ea-9190-f4106d1fbc43.gif)
- <img src="https://tenor.com/view/coding-kira-lena-urzendowsky-how-to-sell-drugs-online-fast-hacking-gif-17761682.gif" width="550" > 
+![edebd27aaf5015034ca452375a3b0969](https://user-images.githubusercontent.com/32809211/87786036-e7cdfa80-c856-11ea-9190-f4106d1fbc43.gif) 
 
 ## 📬 Get in touch
 
