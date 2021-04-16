@@ -1,12 +1,12 @@
 ### Hi there 👋
 
 [![HitCount](http://hits.dwyl.com/Aj7t/https://githubcom/Aj7t/Placement22.svg)](http://hits.dwyl.com/Aj7t/https://githubcom/Aj7t/Placement22) <img alt="GitHub followers" src="https://img.shields.io/github/followers/Aj7t?style=social"> ![Twitter Follow](https://img.shields.io/twitter/follow/_aj7t?style=social) <p align="left"> <img src="https://komarev.com/ghpvc/?username=aj7t&label=Profile%20views&color=0e75b6&style=flat" alt="Aj7t" /> </p>
-<img align="right" alt="aj7t" src="https://user-images.githubusercontent.com/32809211/87786036-e7cdfa80-c856-11ea-9190-f4106d1fbc43.gif"/>
+<p align="left"> <img align="right" alt="aj7t" src="https://user-images.githubusercontent.com/32809211/87786036-e7cdfa80-c856-11ea-9190-f4106d1fbc43.gif"/>
 
 # I'm ajit <img src="https://tenor.com/view/coding-kira-lena-urzendowsky-how-to-sell-drugs-online-fast-hacking-gif-17761682.gif" width="50" > 
 
 - 🔭 I’m currently working for Placement'22
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning React
 - 🤔 I’m looking for help with Open sources
 - 💬 Ask me about anything
 - 📫 How to reach me:  [LinkedIn](https://www.linkedin.com/in/aj7t/)
@@ -21,7 +21,6 @@
 [LinkedIn](https://www.linkedin.com/in/aj7t/)
 
 [Instagram](https://www.instagram.com/_aj7t/)
- 
  
 
 
@@ -39,7 +38,11 @@ am familiar with including **C++**, **Machine learning**, and **Web developement
 
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"  height="50px"> <img src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"  height="50px"> <img src="https://www.python.org/static/opengraph-icon-200x200.png"  height="50px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"  height="50px"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"  height="50px"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"  height="50px"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"  height="50px"> 
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"  height="50px"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"  height="50px"> <img
+src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"  height="50px"> <img
+src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"  height="50px"> <img 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"  height="50px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"  height="50px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"  height="50px">
+
+
