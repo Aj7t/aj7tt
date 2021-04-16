@@ -27,7 +27,7 @@
 You can find my blog posts on [Medium](https://medium.com/@aj7t). I write about things I
 am familiar with including **C++**, **Machine learning**, and **Web developement**.
 
- <br><p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haimantika&layout=compact" alt="haimantika" /></p>
+ <br><p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aj7t&layout=compact" alt="aj7t" /></p>
 
 
 ![Aj7t's github stats](https://github-readme-stats.vercel.app/api?username=Aj7t&show_icons=true&title_color=EEFCEF&icon_color=EEFCEF&text_color=00B0E0&bg_color=151515)
