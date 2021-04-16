@@ -15,9 +15,9 @@
 ##  💚 Get in touch
 
 
-[Twitter](https://www.twitter.com/aj7t) <br>
-[LinkedIn](https://www.linkedin.com/in/aj7t/) <br>
-[Instagram](https://www.instagram.com/_aj7t/)
+👉 [Twitter](https://www.twitter.com/aj7t) <br>
+👉 [LinkedIn](https://www.linkedin.com/in/aj7t/) <br>
+👉 [Instagram](https://www.instagram.com/_aj7t/)
 
 
 ## 🌳 My Digital Garden
