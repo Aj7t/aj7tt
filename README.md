@@ -12,7 +12,7 @@
 
 
 
-##  💚🏼 Get in touch
+##  💚 Get in touch
 
 
 [Twitter](https://www.twitter.com/aj7t)
