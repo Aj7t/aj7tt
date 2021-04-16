@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+# I'm Ajit <img src="https://tenor.com/view/coding-kira-lena-urzendowsky-how-to-sell-drugs-online-fast-hacking-gif-17761682" width="50" >
+
 [![HitCount](http://hits.dwyl.com/Aj7t/https://githubcom/Aj7t/Placement22.svg)](http://hits.dwyl.com/Aj7t/https://githubcom/Aj7t/Placement22) <img alt="GitHub followers" src="https://img.shields.io/github/followers/Aj7t?style=social"> ![Twitter Follow](https://img.shields.io/twitter/follow/_aj7t?style=social) <p align="left"> <img src="https://komarev.com/ghpvc/?username=aj7t&label=Profile%20views&color=0e75b6&style=flat" alt="Aj7t" /> </p>
 
 - 🔭 I’m currently working for Placement'22
