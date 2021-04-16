@@ -10,7 +10,10 @@
 ## 📬 Get in touch
 
 [LinkedIn](https://www.linkedin.com/in/aj7t/)
+
 [Twitter](https://www.twitter.com/aj7t)
+
+[Instagram](https://www.instagram.com/_aj7t/)
  
 
 
