@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on C++
+- 🔭 I’m currently working for Placement'22
 - 🌱 I’m currently learning javascript
-- 👯 I’m looking to collaborate on C++
 - 🤔 I’m looking for help with Open sources
 - 💬 Ask me about anything
 - 📫 How to reach me:  [LinkedIn](https://www.linkedin.com/in/aj7t/)
