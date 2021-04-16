@@ -16,7 +16,7 @@
 
 [Twitter](https://www.twitter.com/aj7t)
 
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding) [Instagram](https://www.instagram.com/_aj7t/)
+[Instagram](https://www.instagram.com/_aj7t/)
  
 
 
