@@ -16,7 +16,7 @@
 
 [Twitter](https://www.twitter.com/aj7t)
 
-[LinkedIn](https://www.linkedin.com/in/aj7t/)]
+[LinkedIn](https://www.linkedin.com/in/aj7t/)
 
 [Instagram](https://www.instagram.com/_aj7t/)
  
