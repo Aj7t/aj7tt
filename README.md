@@ -10,7 +10,9 @@
 - 💬 Ask me about anything
 - 📫 How to reach me:  [LinkedIn](https://www.linkedin.com/in/aj7t/)
 
-![edebd27aaf5015034ca452375a3b0969](https://user-images.githubusercontent.com/32809211/87786036-e7cdfa80-c856-11ea-9190-f4106d1fbc43.gif) 
+
+<img align="right" alt="aj7t" src="https://user-images.githubusercontent.com/32809211/87786036-e7cdfa80-c856-11ea-9190-f4106d1fbc43.gif"/>
+
 
 ## 📬 Get in touch
 
