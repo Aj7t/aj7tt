@@ -33,7 +33,7 @@ am familiar with including **C++**, **Machine learning**, and **Web developement
 ## 🔮 Languages and Tools
  
 <img align="left"  src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" height="50px">
-<img align="left" src="https://www.python.org/static/opengraph-icon-200x200.png" height="55px"> 
+<img align="left" src="https://www.python.org/static/opengraph-icon-200x200.png" height="60px"> 
 <img align="left" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="50">
 <img align="left" src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="50">
 <img align="left"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"  height="40px">
