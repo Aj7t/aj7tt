@@ -12,15 +12,12 @@
 
 
 
-## 👩🏻‍🤝‍👨🏼👬🏼 Get in touch
+##  💚🏼 Get in touch
 
 
 [Twitter](https://www.twitter.com/aj7t)
-
 [LinkedIn](https://www.linkedin.com/in/aj7t/)
-
 [Instagram](https://www.instagram.com/_aj7t/)
- 
 
 
 ## 🌳 My Digital Garden
@@ -29,7 +26,6 @@ You can find my blog posts on [Medium](https://medium.com/@aj7t). I write about 
 am familiar with including **C++**, **Machine learning**, and **Web developement**.
 
 <br><p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aj7t&layout=compact" alt="aj7t" /></p>
-
 
 ![Aj7t's github stats](https://github-readme-stats.vercel.app/api?username=Aj7t&show_icons=true&title_color=EEFCEF&icon_color=EEFCEF&text_color=00B0E0&bg_color=151515)
 
