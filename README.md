@@ -14,7 +14,7 @@
 ##  💚 Get in touch
 
 
-👉 [Twitter](https://www.twitter.com/_aj7t) <br>
+👉 [Twitter]<a href="https://twitter.com/_aj7t/" target="_blank"> </a> <br>
 👉 [LinkedIn](https://www.linkedin.com/in/aj7t/) <br>
 👉 [Instagram](https://www.instagram.com/_aj7t/)
 
