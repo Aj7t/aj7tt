@@ -1,5 +1,5 @@
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/Aj7t?style=social"> ![Twitter Follow](https://img.shields.io/twitter/follow/_aj7t?style=social) <p align="left"> <img src="https://komarev.com/ghpvc/?username=aj7t&label=Profile%20views&color=0e75b6&style=flat" alt="Aj7t" /> </p>
-<p align="left"> <img align="right" alt="aj7t" src="https://blog.cloudlayer.io/content/images/2020/12/giphy--1-.gif"/>
+<p align="left"> <img align="right" alt="aj7t" src="https://media.tenor.com/images/b7939d73d32cb3ce5e48a80dd35dc599/tenor.gif"/>
 <br>
  
 ###  Hi there <img src="https://raw.githubusercontent.com/LifeofAGeek/LifeofAGeek/master/gifs/Hi.gif" width="30px">  I'm ajit 👩🏻‍🚀 <hr>
