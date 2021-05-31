@@ -1,9 +1,9 @@
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/Aj7t?style=social"> ![Twitter Follow](https://img.shields.io/twitter/follow/_aj7t?style=social) <p align="left"> <img src="https://komarev.com/ghpvc/?username=aj7t&label=Profile%20views&color=0e75b6&style=flat" alt="Aj7t" /> </p>
-<p align="left"> <img align="right" alt="aj7t" src="https://media.tenor.com/images/b7939d73d32cb3ce5e48a80dd35dc599/tenor.gif"/>
+
 <br>
  
-###  Hi there <img src="https://raw.githubusercontent.com/LifeofAGeek/LifeofAGeek/master/gifs/Hi.gif" width="90px">  I'm ajit 👩🏻‍🚀 <br>
-
+###  Hi there <img src="https://raw.githubusercontent.com/LifeofAGeek/LifeofAGeek/master/gifs/Hi.gif" width="25px">  I'm ajit 👩🏻‍🚀 <br>
+<p align="left"> <img align="right" alt="aj7t" src="https://media.tenor.com/images/b7939d73d32cb3ce5e48a80dd35dc599/tenor.gif"/>
 - 🔭 I’m currently working for Placement'22
 - 🌱 I’m currently learning React
 - 🤔 I’m looking for help with Open sources
