@@ -1,3 +1,5 @@
+
+<img src="https://komarev.com/ghpvc/?username=aj7t&label=Profile%20views&color=0e75b6&style=flat" alt="Aj7t" align="right" /> </p>
 ### < Hello World />  <img src="https://raw.githubusercontent.com/LifeofAGeek/LifeofAGeek/master/gifs/Hi.gif" width="25px"><hr>
 
 <p align="left"> <img align="right" width="350px" height="250px" alt="aj7t" src="https://media.tenor.com/images/b7939d73d32cb3ce5e48a80dd35dc599/tenor.gif"/> 
@@ -41,7 +43,6 @@ I code for FUN in any language including
 
 
 ##  GitHub Status 🚀🚀
- <img src="https://komarev.com/ghpvc/?username=aj7t&label=Profile%20views&color=0e75b6&style=flat" alt="Aj7t" align="right" /> </p><br>
 ![GitHub Status](https://github-readme-stats.vercel.app/api?username=aj7t&show_icons=true&theme=dark&count_private=true)
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=aj7t&theme=dark&hide_langs_below=4&layout=compact'/>  
 <p align="center"> 
