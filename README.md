@@ -3,17 +3,20 @@
 <br>
  
 ###  Hi there <img src="https://raw.githubusercontent.com/LifeofAGeek/LifeofAGeek/master/gifs/Hi.gif" width="25px">  I'm ajit 👩🏻‍🚀 <br>
+
+<p align="left"> <img align="right" width="350px" height="200px" alt="aj7t" src="https://media.tenor.com/images/b7939d73d32cb3ce5e48a80dd35dc599/tenor.gif"/> <br>
+ 
 I code for FUN in any language including   
 | Python | C++ | JAVA | Javascript|
  | :---: | :---: | :---: | :---: | 
 
-<p align="left"> <img align="right" width="350px" height="200px" alt="aj7t" src="https://media.tenor.com/images/b7939d73d32cb3ce5e48a80dd35dc599/tenor.gif"/>
  <br>
 - 🔭 I’m currently working for Placement'22 <br>
 - 🌱 I’m currently learning React <br>
 - 💬 Ask me about anything, I am happy to help anytime! <br>
-- 📫 How to reach me:  [LinkedIn](https://www.linkedin.com/in/aj7t/) <br> 
-###  💚 Get in touch
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/aj7t/) <br> 
+
+💚 Get in touch
 
 
 <a href="https://www.linkedin.com/in/aj7t/">
