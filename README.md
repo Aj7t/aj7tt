@@ -1,4 +1,4 @@
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/Aj7t?style=social"> ![Twitter Follow](https://img.shields.io/twitter/follow/_aj7t?style=social) <p align="left"> <img src="https://komarev.com/ghpvc/?username=aj7t&label=Profile%20views&color=0e75b6&style=flat" alt="Aj7t" /> </p>
+<img src="https://komarev.com/ghpvc/?username=aj7t&label=Profile%20views&color=0e75b6&style=flat" alt="Aj7t" /> </p>
 <br>
  
 ###  Hi there <img src="https://raw.githubusercontent.com/LifeofAGeek/LifeofAGeek/master/gifs/Hi.gif" width="25px">  I'm ajit 👩🏻‍🚀 <br>
@@ -49,8 +49,8 @@ I code for FUN in any language including
 
  ## 
 
-<br><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aj7t&layout=compact" alt="aj7t" /></p><br>
-
+<br><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aj7t&layout=compact" alt="aj7t"/></p>
+<br>
 ![Aj7t's github status](https://github-readme-stats.vercel.app/api?username=Aj7t&show_icons=true&title_color=EEFCEF&icon_color=EEFCEF&text_color=00B0E0&bg_color=151515) 
 
 
