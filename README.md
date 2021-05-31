@@ -25,7 +25,7 @@ I code for FUN in any language including
   <a href="https://instagram.com/_aj7t">
     <img align="left" alt="aj7t | Instagram" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
   </a>     
-<br><br><br>
+<br><br><hr><br>
  
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> My Skills:
 <div class="row">
