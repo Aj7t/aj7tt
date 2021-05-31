@@ -1,6 +1,6 @@
 <img src="https://komarev.com/ghpvc/?username=aj7t&label=Profile%20views&color=0e75b6&style=flat" alt="Aj7t" align="right" /> </p>
  
-### < Hello World />  <img src="https://raw.githubusercontent.com/LifeofAGeek/LifeofAGeek/master/gifs/Hi.gif" width="25px"><hr> <br>
+### < Hello World />  <img src="https://raw.githubusercontent.com/LifeofAGeek/LifeofAGeek/master/gifs/Hi.gif" width="25px"><hr>
 
 <p align="left"> <img align="right" width="350px" height="250px" alt="aj7t" src="https://media.tenor.com/images/b7939d73d32cb3ce5e48a80dd35dc599/tenor.gif"/> 
  
@@ -27,7 +27,7 @@ I code for FUN in any language including
   </a>     
 <br><br><br>
  
-## Tech Stack I am Familiar With:
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> My Skills:
 <div class="row">
 <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
 <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
@@ -42,8 +42,7 @@ I code for FUN in any language including
 <br/> <br/>
 
 
-
-![](https://activity-graph.herokuapp.com/graph?username=aj7t&theme=github)
+##  GitHub Status
 ![GitHub Status](https://github-readme-stats.vercel.app/api?username=aj7t&show_icons=true&theme=dark&count_private=true)
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=aj7t&theme=dark&hide_langs_below=4&layout=compact'/>  
 <p align="center"> 
@@ -51,7 +50,9 @@ I code for FUN in any language including
 
 
 
+<div align="center">
 
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 
 
 
