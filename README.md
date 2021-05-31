@@ -1,6 +1,6 @@
 <img src="https://komarev.com/ghpvc/?username=aj7t&label=Profile%20views&color=0e75b6&style=flat" alt="Aj7t" align="right" /> </p>
  
-### < Hello World />  <img src="https://raw.githubusercontent.com/LifeofAGeek/LifeofAGeek/master/gifs/Hi.gif" width="25px"><hr>
+### < Hello World />  <img src="https://raw.githubusercontent.com/LifeofAGeek/LifeofAGeek/master/gifs/Hi.gif" width="25px"><br>
 
 <p align="left"> <img align="right" width="350px" height="250px" alt="aj7t" src="https://media.tenor.com/images/b7939d73d32cb3ce5e48a80dd35dc599/tenor.gif"/> 
  
@@ -13,7 +13,7 @@ I code for FUN in any language including
 - 🎯 I'm currently practising javascript and React.js<br>
 - 💬 Ask me about anything, I am happy to help anytime! <br>
 - 📫 How to reach me: [LinkedIn] <br>
-- 📫 Let's Connect: <br>
+- 🤝 Let's Connect: <br>
  <br> 
 <a href="https://www.linkedin.com/in/aj7t/">
     <img align="left" alt="aj7t | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
@@ -25,7 +25,7 @@ I code for FUN in any language including
   <a href="https://instagram.com/_aj7t">
     <img align="left" alt="aj7t | Instagram" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
   </a>     
-<br><br><hr>
+<br><br><Br>
  
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> My Skills:
 <div class="row">
