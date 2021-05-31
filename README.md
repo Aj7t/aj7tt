@@ -4,7 +4,7 @@
  
 ###  Hi there <img src="https://raw.githubusercontent.com/LifeofAGeek/LifeofAGeek/master/gifs/Hi.gif" width="25px">  I'm ajit 👩🏻‍🚀 <br>
 
-<p align="left"> <img align="right" width="200px" height="300px" alt="aj7t" src="https://media.tenor.com/images/b7939d73d32cb3ce5e48a80dd35dc599/tenor.gif"/>
+<p align="left"> <img align="right" width="350px" height="200px" alt="aj7t" src="https://media.tenor.com/images/b7939d73d32cb3ce5e48a80dd35dc599/tenor.gif"/>
  <br>
 - 🔭 I’m currently working for Placement'22
 - 🌱 I’m currently learning React
