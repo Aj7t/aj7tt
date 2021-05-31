@@ -2,24 +2,32 @@
 
 <br>
  
-###  Hi there <img src="https://raw.githubusercontent.com/LifeofAGeek/LifeofAGeek/master/gifs/Hi.gif" width="25px">  I'm ajit 👩🏻‍🚀 
+###  Hi there <img src="https://raw.githubusercontent.com/LifeofAGeek/LifeofAGeek/master/gifs/Hi.gif" width="25px">  I'm ajit 👩🏻‍🚀 <br>
+I code for FUN in any language including   
+| Python | C++ | JAVA | Javascript|
+ | :---: | :---: | :---: | :---: | 
 
 <p align="left"> <img align="right" width="350px" height="200px" alt="aj7t" src="https://media.tenor.com/images/b7939d73d32cb3ce5e48a80dd35dc599/tenor.gif"/>
  <br>
 - 🔭 I’m currently working for Placement'22 <br>
 - 🌱 I’m currently learning React <br>
-- 🤔 I’m looking for help with Open sources <br>
-- 💬 Ask me about anything <br>
-- 📫 How to reach me:  [LinkedIn](https://www.linkedin.com/in/aj7t/) <br> <br> <br> <br>
+- 💬 Ask me about anything, I am happy to help anytime! <br>
+- 📫 How to reach me:  [LinkedIn](https://www.linkedin.com/in/aj7t/) <br> 
+###  💚 Get in touch
 
 
+<a href="https://www.linkedin.com/in/aj7t/">
+    <img align="left" alt="aj7t | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
+  </a>
+   <a href="https://twitter.com/_aj7t?lang=en">
+    <img align="left" alt="aj7t | Twitter" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
+</a> 
 
-##  💚 Get in touch
+  <a href="https://instagram.com/_aj7t">
+    <img align="left" alt="aj7t | Instagram" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
+  </a>     
 
-
-👉 [Twitter](https://twitter.com/_aj7t/) <br>
-👉 [LinkedIn](https://www.linkedin.com/in/aj7t/) <br>
-👉 [Instagram](https://www.instagram.com/_aj7t/)
+<br>
 
 
 ## 🌳 My Digital Garden
