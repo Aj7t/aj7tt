@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning React <br>
 - 🤔 I’m looking for help with Open sources <br>
 - 💬 Ask me about anything <br>
-- 📫 How to reach me:  [LinkedIn](https://www.linkedin.com/in/aj7t/) <br> <br>
+- 📫 How to reach me:  [LinkedIn](https://www.linkedin.com/in/aj7t/) <br> <br> <br> <br>
 
 
 
