@@ -1,6 +1,6 @@
 
 <img src="https://komarev.com/ghpvc/?username=aj7t&label=Profile%20views&color=0e75b6&style=flat" alt="Aj7t" align="right" /> </p>
-### < Hello World />  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60"> <hr>
+### < Hello World /> <hr> <img width="35px" src="https://media.tenor.com/images/8c62f4bdbf2f2a1d1f702c3550693e79/tenor.gif">
 
 <p align="left"> <img align="right" width="350px" height="250px" alt="aj7t" src="https://media.tenor.com/images/b7939d73d32cb3ce5e48a80dd35dc599/tenor.gif"/> 
  
@@ -32,7 +32,7 @@ I code for FUN in any language including
  
 <br><br><Br>
  
-## My Skills:
+##  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60">  My Skills:
 <div class="row">
 <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
 <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
