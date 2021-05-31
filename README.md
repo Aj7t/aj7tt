@@ -1,6 +1,6 @@
 
 <img src="https://komarev.com/ghpvc/?username=aj7t&label=Profile%20views&color=0e75b6&style=flat" alt="Aj7t" align="right" /> </p>
-### < Hello World /> <hr> <img width="35px" src="https://media.tenor.com/images/8c62f4bdbf2f2a1d1f702c3550693e79/tenor.gif">
+### < Hello World /> <img width="35px" src="https://media.tenor.com/images/8c62f4bdbf2f2a1d1f702c3550693e79/tenor.gif"> <hr>
 
 <p align="left"> <img align="right" width="350px" height="250px" alt="aj7t" src="https://media.tenor.com/images/b7939d73d32cb3ce5e48a80dd35dc599/tenor.gif"/> 
  
