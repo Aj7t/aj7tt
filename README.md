@@ -13,8 +13,8 @@ I code for FUN in any language including
 - 🔭 I’m currently working for Placement'22 <br>
 - 🌱 I’m currently learning React <br>
 - 💬 Ask me about anything, I am happy to help anytime! <br>
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/aj7t/) <br> 
-
+- 📫 How to reach me: [LinkedIn]
+ <br><br> 
 
 
 <a href="https://www.linkedin.com/in/aj7t/">
@@ -49,9 +49,9 @@ I code for FUN in any language including
 
  ## 
 
-<br><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aj7t&layout=compact" alt="aj7t" /></p>
+<br><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aj7t&layout=compact" alt="aj7t" />
 
-![Aj7t's github stats](https://github-readme-stats.vercel.app/api?username=Aj7t&show_icons=true&title_color=EEFCEF&icon_color=EEFCEF&text_color=00B0E0&bg_color=151515)
+![Aj7t's github stats](https://github-readme-stats.vercel.app/api?username=Aj7t&show_icons=true&title_color=EEFCEF&icon_color=EEFCEF&text_color=00B0E0&bg_color=151515) </p>
 
 
 
