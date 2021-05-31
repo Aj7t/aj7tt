@@ -31,14 +31,6 @@ I code for FUN in any language including
 <br>
 <br>
 
-## 🌳 My Digital Garden
-
-
-<br><p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aj7t&layout=compact" alt="aj7t" /></p>
-
-![Aj7t's github stats](https://github-readme-stats.vercel.app/api?username=Aj7t&show_icons=true&title_color=EEFCEF&icon_color=EEFCEF&text_color=00B0E0&bg_color=151515)
-
-
 ## 🔮 Languages and Tools
  
 <img align="left"  src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" height="50px">
@@ -54,6 +46,14 @@ I code for FUN in any language including
 <img align="left" src="https://media.giphy.com/media/KzWMBa9V3z8jHJCEC7/giphy.gif" width="50">
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1200px-Sass_Logo_Color.svg.png" width="50">
 <br />
+
+ 
+ 
+
+<br><p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aj7t&layout=compact" alt="aj7t" /></p>
+
+![Aj7t's github stats](https://github-readme-stats.vercel.app/api?username=Aj7t&show_icons=true&title_color=EEFCEF&icon_color=EEFCEF&text_color=00B0E0&bg_color=151515)
+
 
 
 
