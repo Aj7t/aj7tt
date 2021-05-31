@@ -1,9 +1,9 @@
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/Aj7t?style=social"> ![Twitter Follow](https://img.shields.io/twitter/follow/_aj7t?style=social) <p align="left"> <img src="https://komarev.com/ghpvc/?username=aj7t&label=Profile%20views&color=0e75b6&style=flat" alt="Aj7t" align="left" /> </p>
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/Aj7t?style=social"> ![Twitter Follow](https://img.shields.io/twitter/follow/_aj7t?style=social) <p align="left"> <img src="https://komarev.com/ghpvc/?username=aj7t&label=Profile%20views&color=0e75b6&style=flat" alt="Aj7t" /> </p>
 <br>
  
 ###  Hi there <img src="https://raw.githubusercontent.com/LifeofAGeek/LifeofAGeek/master/gifs/Hi.gif" width="25px">  I'm ajit 👩🏻‍🚀 <br>
 
-<p align="left"> <img align="right" width="350px" height="200px" alt="aj7t" src="https://media.tenor.com/images/b7939d73d32cb3ce5e48a80dd35dc599/tenor.gif"/> 
+<p align="left"> <img align="right" width="350px" height="250px" alt="aj7t" src="https://media.tenor.com/images/b7939d73d32cb3ce5e48a80dd35dc599/tenor.gif"/> 
  
 I code for FUN in any language including   
 | Python | C++ | JAVA | Javascript|
@@ -34,8 +34,6 @@ I code for FUN in any language including
 
 ## 🌳 My Digital Garden
 
-You can find my blog posts on [Medium](https://medium.com/@aj7t). I write about things I
-am familiar with including **C++**, **Machine learning**, and **Web developement**.
 
 <br><p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aj7t&layout=compact" alt="aj7t" /></p>
 
