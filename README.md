@@ -1,4 +1,6 @@
 <img src="https://komarev.com/ghpvc/?username=aj7t&label=Profile%20views&color=0e75b6&style=flat" alt="Aj7t" align="right" /> </p>
+<div align="center">
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
  
 ### < Hello World />  <img src="https://raw.githubusercontent.com/LifeofAGeek/LifeofAGeek/master/gifs/Hi.gif" width="25px"><hr>
 
@@ -43,7 +45,7 @@ I code for FUN in any language including
 
 
 ##  GitHub Status 🚀🚀
-![GitHub Status](https://github-readme-stats.vercel.app/api?username=aj7t&show_icons=true&theme=dark&count_private=true)
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=aj7t&theme=dark&hide_langs_below=4&layout=compact'/>  
+![GitHub Status](https://github-readme-status.vercel.app/api?username=aj7t&show_icons=true&theme=dark&count_private=true)
+<img src='https://github-readme-status.vercel.app/api/top-langs/?username=aj7t&theme=dark&hide_langs_below=4&layout=compact'/>  
 <p align="center"> 
 </p>
