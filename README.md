@@ -2,7 +2,7 @@
 
 <br>
  
-###  Hi there <img src="https://raw.githubusercontent.com/LifeofAGeek/LifeofAGeek/master/gifs/Hi.gif" width="25px">  I'm ajit 👩🏻‍🚀 <br>
+###  Hi there <img src="https://raw.githubusercontent.com/LifeofAGeek/LifeofAGeek/master/gifs/Hi.gif" width="25px">  I'm ajit 👩🏻‍🚀 
 
 <p align="left"> <img align="right" width="350px" height="200px" alt="aj7t" src="https://media.tenor.com/images/b7939d73d32cb3ce5e48a80dd35dc599/tenor.gif"/>
  <br>
@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning React <br>
 - 🤔 I’m looking for help with Open sources <br>
 - 💬 Ask me about anything <br>
-- 📫 How to reach me:  [LinkedIn](https://www.linkedin.com/in/aj7t/) <br>
+- 📫 How to reach me:  [LinkedIn](https://www.linkedin.com/in/aj7t/) <br> <br>
 
 
 
