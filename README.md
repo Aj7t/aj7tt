@@ -16,17 +16,17 @@ I code for FUN in any language including
 - 🤝 Let's Connect: <br>
  <br> 
 <a href="https://www.linkedin.com/in/aj7t/">
-    <img align="left" alt="aj7t | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
+    <img align="left" alt="aj7t | Linkedin" width="24px" src="https://bit.ly/2SGt70k" />
   </a>
    <a href="https://twitter.com/_aj7t?lang=en">
-    <img align="left" alt="aj7t | Twitter" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
+    <img align="left" alt="aj7t | Twitter" width="26px" src="https://bit.ly/3p7kNmj" />
 </a> 
 
   <a href="https://instagram.com/_aj7t">
-    <img align="left" alt="aj7t | Instagram" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
+    <img align="left" alt="aj7t | Instagram" width="24px" src="https://bit.ly/3i6EGIM" />
   </a> 
  
- <a href="https://instagram.com/_aj7t">
+ <a href="https://stackoverflow.com/users/12315531/aj7t">
     <img align="left" alt="aj7t | Stack Overflow" width="24px" src="https://bit.ly/3uwRPgY" />
   </a>   
 <br><br><Br>
