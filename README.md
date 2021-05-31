@@ -13,7 +13,7 @@ I code for FUN in any language including
 - 🎯 I'm currently practising javascript and React.js<br>
 - 💬 Ask me about anything, I am happy to help anytime! <br>
 - 📫 How to reach me: [LinkedIn] <br>
-- 📫 Let's Connect: 
+- 📫 Let's Connect: <br>
  <br> 
 <a href="https://www.linkedin.com/in/aj7t/">
     <img align="left" alt="aj7t | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
@@ -40,9 +40,6 @@ I code for FUN in any language including
 <img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 </div>
 <br/> <br/>
-
-<div align="center">
-<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 
 
 ##  GitHub Status 🚀🚀
