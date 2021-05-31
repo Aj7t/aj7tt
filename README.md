@@ -49,9 +49,9 @@ I code for FUN in any language including
 
  ## 
 
-<br><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aj7t&layout=compact" alt="aj7t" />
+<br><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aj7t&layout=compact" alt="aj7t" /></p><br>
 
-![Aj7t's github stats](https://github-readme-stats.vercel.app/api?username=Aj7t&show_icons=true&title_color=EEFCEF&icon_color=EEFCEF&text_color=00B0E0&bg_color=151515) </p>
+![Aj7t's github status](https://github-readme-stats.vercel.app/api?username=Aj7t&show_icons=true&title_color=EEFCEF&icon_color=EEFCEF&text_color=00B0E0&bg_color=151515) 
 
 
 
