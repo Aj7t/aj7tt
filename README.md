@@ -6,11 +6,11 @@
 
 <p align="left"> <img align="right" width="350px" height="200px" alt="aj7t" src="https://media.tenor.com/images/b7939d73d32cb3ce5e48a80dd35dc599/tenor.gif"/>
  <br>
-- 🔭 I’m currently working for Placement'22
-- 🌱 I’m currently learning React
-- 🤔 I’m looking for help with Open sources
-- 💬 Ask me about anything
-- 📫 How to reach me:  [LinkedIn](https://www.linkedin.com/in/aj7t/)
+- 🔭 I’m currently working for Placement'22 <br>
+- 🌱 I’m currently learning React <br>
+- 🤔 I’m looking for help with Open sources <br>
+- 💬 Ask me about anything <br>
+- 📫 How to reach me:  [LinkedIn](https://www.linkedin.com/in/aj7t/) <br>
 
 
 
