@@ -15,7 +15,6 @@ I code for FUN in any language including
 - 💬 Ask me about anything, I am happy to help anytime! <br>
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/aj7t/) <br> 
 
-💚 Get in touch
 
 
 <a href="https://www.linkedin.com/in/aj7t/">
@@ -30,7 +29,7 @@ I code for FUN in any language including
   </a>     
 
 <br>
-
+<br>
 
 ## 🌳 My Digital Garden
 
