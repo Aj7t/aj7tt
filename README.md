@@ -12,7 +12,7 @@ I code for FUN in any language including
 - ✨ I’m currently working on #100daysofchallenge <br>
 - 🎯 I'm currently practising javascript and React.js<br>
 - 💬 Ask me about anything, I am happy to help anytime! <br>
-- 📫 How to reach me: [LinkedIn]
+- 📫 How to reach me: [LinkedIn] <br>
 - 📫 Let's Connect: 
  <br> 
 <a href="https://www.linkedin.com/in/aj7t/">
@@ -41,21 +41,12 @@ I code for FUN in any language including
 </div>
 <br/> <br/>
 
+<div align="center">
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 
-##  GitHub Status
+
+##  GitHub Status 🚀🚀
 ![GitHub Status](https://github-readme-stats.vercel.app/api?username=aj7t&show_icons=true&theme=dark&count_private=true)
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=aj7t&theme=dark&hide_langs_below=4&layout=compact'/>  
 <p align="center"> 
 </p>
-
-
-
-<div align="center">
-
-<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
-
-
-
-
-
-
