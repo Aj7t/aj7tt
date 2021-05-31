@@ -30,9 +30,6 @@ I code for FUN in any language including
     <img align="left" alt="aj7t | Stack Overflow" width="24px" src="https://bit.ly/3uwRPgY" />
   </a>   
  
-  <a href="https://stackoverflow.com/users/12315531/aj7t">
-  <img title="aj7t's Stack Overflow" width="50px" src="https://github-readme-stackoverflow.vercel.app/?userID=12315531&theme=dark" />
-  </a>
 <br><br><Br>
  
 ## My Skills:
