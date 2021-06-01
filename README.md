@@ -4,7 +4,7 @@
 
 <p align="left"> <img align="right" width="350px" height="250px" alt="aj7t" src="https://media.tenor.com/images/b7939d73d32cb3ce5e48a80dd35dc599/tenor.gif"/> 
  
-I < code /> for FUN in any language including   
+I </> code for FUN in any language including   
 | Python | C++ | Java | Javascript|
  | :---: | :---: | :---: | :---: | 
 
