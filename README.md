@@ -20,8 +20,7 @@ I <💙> for FUN in any language including
 - 💬 Ask me about anything, I am happy to help anytime! <br>
 - 📫 How to reach me: [LinkedIn] <br>
 - 🤝 Let's Connect: <br>
-- Reach out to me [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/_aj7t.svg?style=social&label=Follow%20%40_aj7t)](https://twitter.com/_aj7t) <br>
- 
+- Reach out with any feedback [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/kamranahmedse.svg?style=social&label=Follow%20%40kamranahmedse)](https://twitter.com/kamranahmedse)
  
  <br> 
 <a href="https://www.linkedin.com/in/aj7t/">
