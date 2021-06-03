@@ -9,7 +9,7 @@ https://media.tenor.com/images/8c62f4bdbf2f2a1d1f702c3550693e79/tenor.gif
 --->
 
 <p align="left"> <img align="right" width="350px" height="250px" alt="aj7t" src="https://i.imgur.com/HeYsOD4.gif"/> 
- 
+<br> 
 I <💙> for FUN in any language including   
 | Python | C++ | Java | Javascript|
  | :---: | :---: | :---: | :---: | 
@@ -20,6 +20,9 @@ I <💙> for FUN in any language including
 - 💬 Ask me about anything, I am happy to help anytime! <br>
 - 📫 How to reach me: [LinkedIn] <br>
 - 🤝 Let's Connect: <br>
+- Reach out to me [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/_aj7t.svg?style=social&label=Follow%20%40_aj7t)](https://twitter.com/_aj7t) <br>
+ 
+ 
  <br> 
 <a href="https://www.linkedin.com/in/aj7t/">
     <img align="left" alt="aj7t | Linkedin" width="24px" src="https://bit.ly/2SGt70k" />
