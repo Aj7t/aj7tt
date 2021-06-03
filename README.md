@@ -14,14 +14,12 @@ I </> for FUN in any language including
 | Python | C++ | Java | Javascript|
  | :---: | :---: | :---: | :---: | 
 
- <br>
+ 
 - ✨ I’m currently working on #100daysofchallenge <br>
 - 🎯 I'm currently practising javascript and React.js<br>
 - 💬 Ask me about anything, I am happy to help anytime! <br>
 - 📫 How to reach me: [LinkedIn] <br>
-- 🤝 Let's Connect: <br> 
-- 
- <br> 
+- 🤝 Let's Connect: <br> <br> 
 <a href="https://www.linkedin.com/in/aj7t/">
     <img align="left" alt="aj7t | Linkedin" width="24px" src="https://bit.ly/2SGt70k" />
   </a>
