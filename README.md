@@ -9,7 +9,7 @@ https://media.tenor.com/images/8c62f4bdbf2f2a1d1f702c3550693e79/tenor.gif
 --->
 
 <p align="left"> <img align="right" width="350px" height="250px" alt="aj7t" src="https://i.imgur.com/HeYsOD4.gif"/> 
-<br> 
+
 I </> for FUN in any language including   
 | Python | C++ | Java | Javascript|
  | :---: | :---: | :---: | :---: | 
