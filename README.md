@@ -15,7 +15,7 @@ I </ code > for FUN in any language including
  | :---: | :---: | :---: | :---: | 
 
  
-- ✨ I’m currently working on #100daysofchallenge <br>
+- ✨ I’m currently working on #100daysofDSA <br>
 - 🎯 I'm currently practising javascript and React.js<br>
 - 💬 Ask me about anything, I am happy to help anytime! <br>
 - 📫 How to reach me: [LinkedIn] <br>
