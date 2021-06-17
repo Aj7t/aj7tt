@@ -15,10 +15,10 @@ I </ code > for FUN in any language including
  | :---: | :---: | :---: | :---: | 
 
  
-- ✨ I’m currently working on #100daysofDSA <br>
-- 🎯 I'm currently practising javascript and React.js<br>
-- 💬 Ask me about anything, I am happy to help anytime! <br>
-- 📫 How to reach me: [LinkedIn] <br>
+- ✨ I’m currently working on [#100daysofDSA](https://github.com/Aj7t/100daysofDSA) <br>
+- 🎯 I'm currently practising [javascript and React.js](https://github.com/Aj7t/A-Tour-of-JavaScript) <br>
+- 💬 Ask me about anything, I am happy to help anytime!  <br>
+- 📫 How to reach me: [@_aj7t](https://twitter.com/_aj7t?lang=en) <br>
 - 🤝 Let's Connect: <br>  
 
 <a href="https://www.linkedin.com/in/aj7t/">
